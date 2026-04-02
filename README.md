@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1pZarlVQr6Rqf2OTbroNpOx87YIvUoyUr?usp=sha
 
   도영:
 
-  용준:
+  용준: https://www.notion.so/4-336f606a1f6580bdbb9ed6b7792483b3?pvs=12
 
   설아:
 
