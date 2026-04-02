@@ -15,5 +15,5 @@ https://drive.google.com/drive/folders/1pZarlVQr6Rqf2OTbroNpOx87YIvUoyUr?usp=sha
 
   설아:
 
-  예람:
+  예람: https://www.notion.so/1-326b69530df2807db185d3788d20959a?source=copy_link
   
