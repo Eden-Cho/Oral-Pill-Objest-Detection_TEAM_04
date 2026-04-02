@@ -1,6 +1,8 @@
 # Oral-Pill-Objest-Detection_TEAM_04
 경구용 알약 이미지의 클래스 및 위치 분류하는 모델을 생성합니다.
 
+* 개인 발표자료:
+https://drive.google.com/drive/folders/1pZarlVQr6Rqf2OTbroNpOx87YIvUoyUr?usp=sharing
 
 * 협업일지
 
