@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1pZarlVQr6Rqf2OTbroNpOx87YIvUoyUr?usp=sha
 
   용준: https://www.notion.so/4-336f606a1f6580bdbb9ed6b7792483b3?pvs=12
 
-  설아:
+  설아: https://www.notion.so/1-Daily-326be3a2a10980c4bf42c3fb5402f292?source=copy_link
 
   예람: https://www.notion.so/1-326b69530df2807db185d3788d20959a?source=copy_link
   
